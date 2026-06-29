@@ -1,0 +1,1833 @@
+canonical_identifier: bkk:krp/KR3ek032/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ek032/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 新刻圖形枕藏外科
+  identifiers:
+    krp: KR3ek032
+  tags:
+    kr-categories: KR3ek
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek032.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ek032_000-jc.yaml, hash: 'sha256:9742fd70ae11c042832fb501c2f83cba83358b4e2e2530289b95b66e16a7c320'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ek032_000-jc.markers.yaml, hash: 'sha256:d7040bbb79c84694eda5b12c7026389f79118de692b2df6a013087c7a476bcf9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 329
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 9709
+  label: 一枕藏外科諸症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d2
+    span:
+    - body
+    - 7
+    - 358
+  label: 第一形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d3
+    span:
+    - body
+    - 358
+    - 452
+  label: 第二形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d4
+    span:
+    - body
+    - 452
+    - 519
+  label: 第三形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d5
+    span:
+    - body
+    - 519
+    - 621
+  label: 第四形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d6
+    span:
+    - body
+    - 621
+    - 708
+  label: 第五形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d7
+    span:
+    - body
+    - 708
+    - 797
+  label: 第六形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d8
+    span:
+    - body
+    - 797
+    - 848
+  label: 第七形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d9
+    span:
+    - body
+    - 848
+    - 920
+  label: 第八形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d10
+    span:
+    - body
+    - 920
+    - 1049
+  label: 第九形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d11
+    span:
+    - body
+    - 1049
+    - 1132
+  label: 第十形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d12
+    span:
+    - body
+    - 1132
+    - 1215
+  label: 第十一形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d13
+    span:
+    - body
+    - 1215
+    - 1260
+  label: 第十二形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d14
+    span:
+    - body
+    - 1260
+    - 1303
+  label: 第十三形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d15
+    span:
+    - body
+    - 1303
+    - 1401
+  label: 第十四形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d16
+    span:
+    - body
+    - 1401
+    - 1536
+  label: 第十五形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d17
+    span:
+    - body
+    - 1536
+    - 1620
+  label: 第十六形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d18
+    span:
+    - body
+    - 1620
+    - 1766
+  label: 第十七形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d19
+    span:
+    - body
+    - 1766
+    - 1869
+  label: 第十八形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d20
+    span:
+    - body
+    - 1869
+    - 1922
+  label: 第十九形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d21
+    span:
+    - body
+    - 1922
+    - 2155
+  label: 第二十形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d22
+    span:
+    - body
+    - 2155
+    - 2305
+  label: 第二十一形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d23
+    span:
+    - body
+    - 2305
+    - 2435
+  label: 第二十二形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d24
+    span:
+    - body
+    - 2435
+    - 2569
+  label: 第二十三形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d25
+    span:
+    - body
+    - 2569
+    - 2638
+  label: 第二十四形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d26
+    span:
+    - body
+    - 2638
+    - 2726
+  label: 第二十五形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d27
+    span:
+    - body
+    - 2726
+    - 2816
+  label: 第二十六形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d28
+    span:
+    - body
+    - 2816
+    - 2920
+  label: 第二十七形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d29
+    span:
+    - body
+    - 2920
+    - 2982
+  label: 第二十八形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d30
+    span:
+    - body
+    - 2982
+    - 3105
+  label: 第二十九形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d31
+    span:
+    - body
+    - 3105
+    - 3210
+  label: 第三十形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d32
+    span:
+    - body
+    - 3210
+    - 3295
+  label: 第三十一形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d33
+    span:
+    - body
+    - 3295
+    - 3358
+  label: 第三十二形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d34
+    span:
+    - body
+    - 3358
+    - 3446
+  label: 第三十三形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d35
+    span:
+    - body
+    - 3446
+    - 3539
+  label: 第三十四形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d36
+    span:
+    - body
+    - 3539
+    - 3609
+  label: 第三十五形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d37
+    span:
+    - body
+    - 3609
+    - 3876
+  label: 第三十六圖形
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d38
+    span:
+    - body
+    - 3876
+    - 3972
+  label: 第三十七形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d39
+    span:
+    - body
+    - 3972
+    - 4067
+  label: 第三十八形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d40
+    span:
+    - body
+    - 4067
+    - 4179
+  label: 第三十九形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d41
+    span:
+    - body
+    - 4179
+    - 4296
+  label: 第四十形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d42
+    span:
+    - body
+    - 4296
+    - 4365
+  label: 第四十一形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d43
+    span:
+    - body
+    - 4365
+    - 4439
+  label: 第四十二形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d44
+    span:
+    - body
+    - 4439
+    - 4533
+  label: 第四十三形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d45
+    span:
+    - body
+    - 4533
+    - 4638
+  label: 第四十四形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d46
+    span:
+    - body
+    - 4638
+    - 4707
+  label: 第四十五形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d47
+    span:
+    - body
+    - 4707
+    - 4896
+  label: 第四十六形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d48
+    span:
+    - body
+    - 4896
+    - 5031
+  label: 第四十七形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d49
+    span:
+    - body
+    - 5031
+    - 5390
+  label: 第四十八形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d50
+    span:
+    - body
+    - 5390
+    - 5580
+  label: 第四十九形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d51
+    span:
+    - body
+    - 5580
+    - 5881
+  label: 第五十形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d52
+    span:
+    - body
+    - 5881
+    - 6048
+  label: 第五十一形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d53
+    span:
+    - body
+    - 6048
+    - 6336
+  label: 第五十二形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d54
+    span:
+    - body
+    - 6336
+    - 6454
+  label: 第五十三形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d55
+    span:
+    - body
+    - 6454
+    - 6585
+  label: 第五十四形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d56
+    span:
+    - body
+    - 6585
+    - 6668
+  label: 第五十五形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d57
+    span:
+    - body
+    - 6668
+    - 6742
+  label: 第五十六形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d58
+    span:
+    - body
+    - 6742
+    - 6799
+  label: 第五十七形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d59
+    span:
+    - body
+    - 6799
+    - 6854
+  label: 第五十八形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d60
+    span:
+    - body
+    - 6854
+    - 6950
+  label: 第五十九形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d61
+    span:
+    - body
+    - 6950
+    - 7030
+  label: 第六十形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d62
+    span:
+    - body
+    - 7030
+    - 7157
+  label: 第六十一形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d63
+    span:
+    - body
+    - 7157
+    - 7604
+  label: 第六十二形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d64
+    span:
+    - body
+    - 7604
+    - 7861
+  label: 第六十三形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d65
+    span:
+    - body
+    - 7861
+    - 7961
+  label: 第六十四形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d66
+    span:
+    - body
+    - 7961
+    - 8057
+  label: 第六十五形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d67
+    span:
+    - body
+    - 8057
+    - 8113
+  label: 第六十六形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d68
+    span:
+    - body
+    - 8113
+    - 8177
+  label: 第六十七形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d69
+    span:
+    - body
+    - 8177
+    - 8258
+  label: 第六十八形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d70
+    span:
+    - body
+    - 8258
+    - 8312
+  label: 第六十九形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d71
+    span:
+    - body
+    - 8312
+    - 8375
+  label: 第七十形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d72
+    span:
+    - body
+    - 8375
+    - 8498
+  label: 第七十一形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d73
+    span:
+    - body
+    - 8498
+    - 8618
+  label: 第七十二形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d74
+    span:
+    - body
+    - 8618
+    - 8748
+  label: 第七十三形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d75
+    span:
+    - body
+    - 8748
+    - 8790
+  label: 第七十四形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d76
+    span:
+    - body
+    - 8790
+    - 8871
+  label: 第七十五形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d77
+    span:
+    - body
+    - 8871
+    - 9196
+  label: 第七十六形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d78
+    span:
+    - body
+    - 9196
+    - 9259
+  label: 第七十七形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d79
+    span:
+    - body
+    - 9259
+    - 9470
+  label: 第七十八形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d80
+    span:
+    - body
+    - 9470
+    - 9522
+  label: 第七十九形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d3d81
+    span:
+    - body
+    - 9522
+    - 9709
+  label: 第八十形圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4.h1s1
+    span:
+    - body
+    - 9709
+    - 15170
+  label: 二枕藏外科諸方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d2
+    span:
+    - body
+    - 9716
+    - 9767
+  label: 內托千金散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d3
+    span:
+    - body
+    - 9767
+    - 9817
+  label: 千金化毒湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d4
+    span:
+    - body
+    - 9817
+    - 9874
+  label: 干金托裡散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d5
+    span:
+    - body
+    - 9874
+    - 9918
+  label: 乳香定痛散即內托清肝散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d6
+    span:
+    - body
+    - 9918
+    - 9969
+  label: 柴胡獨活湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d7
+    span:
+    - body
+    - 9969
+    - 10050
+  label: 真人活命飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d8
+    span:
+    - body
+    - 10050
+    - 10188
+  label: 內消散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d9
+    span:
+    - body
+    - 10188
+    - 10232
+  label: 解毒生肌定痛飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d10
+    span:
+    - body
+    - 10232
+    - 10359
+  label: 追疔奪命湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d11
+    span:
+    - body
+    - 10359
+    - 10405
+  label: 加減鐵箍散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d12
+    span:
+    - body
+    - 10405
+    - 10487
+  label: 二十四味流氣飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d13
+    span:
+    - body
+    - 10487
+    - 10602
+  label: 紅子膏即神應膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d14
+    span:
+    - body
+    - 10602
+    - 10633
+  label: 艽活歸芍湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d15
+    span:
+    - body
+    - 10633
+    - 10730
+  label: 千金內托止痛散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d16
+    span:
+    - body
+    - 10730
+    - 10759
+  label: 青皮柴胡桔梗飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d17
+    span:
+    - body
+    - 10759
+    - 10793
+  label: 加減內托流氣飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d18
+    span:
+    - body
+    - 10793
+    - 10824
+  label: 復元通氣散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d19
+    span:
+    - body
+    - 10824
+    - 10866
+  label: 附一方易滿蘆
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d20
+    span:
+    - body
+    - 10866
+    - 10946
+  label: 海藻散又名三因破結散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d21
+    span:
+    - body
+    - 10946
+    - 10983
+  label: 流氣飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d22
+    span:
+    - body
+    - 10983
+    - 11017
+  label: 隔紙膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d23
+    span:
+    - body
+    - 11017
+    - 11079
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d24
+    span:
+    - body
+    - 11079
+    - 11101
+  label: 再方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d25
+    span:
+    - body
+    - 11101
+    - 11172
+  label: 化毒活血湯即萬金奪命湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d26
+    span:
+    - body
+    - 11172
+    - 11221
+  label: 飛龍奪命丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d27
+    span:
+    - body
+    - 11221
+    - 11265
+  label: 化毒祛風散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d28
+    span:
+    - body
+    - 11265
+    - 11347
+  label: 九仙奪命丹又名九仙散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d29
+    span:
+    - body
+    - 11347
+    - 11443
+  label: 七味硇砂散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d30
+    span:
+    - body
+    - 11443
+    - 11487
+  label: 上宣湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d31
+    span:
+    - body
+    - 11487
+    - 11531
+  label: 破血散即南星膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d32
+    span:
+    - body
+    - 11531
+    - 11597
+  label: 苦參丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d33
+    span:
+    - body
+    - 11597
+    - 11633
+  label: 清心流氣飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d34
+    span:
+    - body
+    - 11633
+    - 11658
+  label: 七寶湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d35
+    span:
+    - body
+    - 11658
+    - 11729
+  label: 乳香化喜湯即內消沃雪湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d36
+    span:
+    - body
+    - 11729
+    - 11782
+  label: 又化毒丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d37
+    span:
+    - body
+    - 11782
+    - 11814
+  label: 如聖餅
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d38
+    span:
+    - body
+    - 11814
+    - 11836
+  label: 二青草末飛丹散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d39
+    span:
+    - body
+    - 11836
+    - 11885
+  label: 敗毒流氣飲即內托追毒散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d40
+    span:
+    - body
+    - 11885
+    - 11924
+  label: 蟾酥丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d41
+    span:
+    - body
+    - 11924
+    - 11961
+  label: 狗寶丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d42
+    span:
+    - body
+    - 11961
+    - 12015
+  label: 白玉膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d43
+    span:
+    - body
+    - 12015
+    - 12096
+  label: 紅玉膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d44
+    span:
+    - body
+    - 12096
+    - 12143
+  label: 三番內托散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d45
+    span:
+    - body
+    - 12143
+    - 12176
+  label: 敗毒流氣飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d46
+    span:
+    - body
+    - 12176
+    - 12222
+  label: 內托流氣飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d47
+    span:
+    - body
+    - 12222
+    - 12347
+  label: 連翹散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d48
+    span:
+    - body
+    - 12347
+    - 12374
+  label: 桃花散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d49
+    span:
+    - body
+    - 12374
+    - 12410
+  label: 追風流氣飲即追毒流氣飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d50
+    span:
+    - body
+    - 12410
+    - 12456
+  label: 清肝流氣飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d51
+    span:
+    - body
+    - 12456
+    - 12499
+  label: 加味流氣飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d52
+    span:
+    - body
+    - 12499
+    - 12533
+  label: 檳榔丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d53
+    span:
+    - body
+    - 12533
+    - 12571
+  label: 護心托裡散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d54
+    span:
+    - body
+    - 12571
+    - 12618
+  label: 追毒流氣飲即內托追毒加減
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d55
+    span:
+    - body
+    - 12618
+    - 12664
+  label: 定痛三香散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d56
+    span:
+    - body
+    - 12664
+    - 12737
+  label: 土苓散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d57
+    span:
+    - body
+    - 12737
+    - 12769
+  label: 清肺飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d58
+    span:
+    - body
+    - 12769
+    - 12805
+  label: 地榆槐花湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d59
+    span:
+    - body
+    - 12805
+    - 12926
+  label: 白花蛇丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d60
+    span:
+    - body
+    - 12926
+    - 13008
+  label: 換骨散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d61
+    span:
+    - body
+    - 13008
+    - 13062
+  label: 胡麻丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d62
+    span:
+    - body
+    - 13062
+    - 13164
+  label: 秦艽丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d63
+    span:
+    - body
+    - 13164
+    - 13202
+  label: 當歸連翹散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d64
+    span:
+    - body
+    - 13202
+    - 13276
+  label: 乳香黃耆散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d65
+    span:
+    - body
+    - 13276
+    - 13311
+  label: 柴蘇流氣飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d66
+    span:
+    - body
+    - 13311
+    - 13365
+  label: 透骨膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d67
+    span:
+    - body
+    - 13365
+    - 13457
+  label: 又方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d68
+    span:
+    - body
+    - 13457
+    - 13485
+  label: 梅花散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d69
+    span:
+    - body
+    - 13485
+    - 13646
+  label: 追黴水銀膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d70
+    span:
+    - body
+    - 13646
+    - 13710
+  label: 蠻王酒又名酒仙散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d71
+    span:
+    - body
+    - 13710
+    - 13802
+  label: 烏蛇丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d72
+    span:
+    - body
+    - 13802
+    - 13839
+  label: 如聖散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d73
+    span:
+    - body
+    - 13839
+    - 13866
+  label: 解毒丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d74
+    span:
+    - body
+    - 13866
+    - 13962
+  label: 麝香蟾酥丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d75
+    span:
+    - body
+    - 13962
+    - 13996
+  label: 乳香拔毒散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d76
+    span:
+    - body
+    - 13996
+    - 14035
+  label: 追風流氣飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d77
+    span:
+    - body
+    - 14035
+    - 14054
+  label: 洗毒散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d78
+    span:
+    - body
+    - 14054
+    - 14086
+  label: 當歸黃耆散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d79
+    span:
+    - body
+    - 14086
+    - 14118
+  label: 乳香輕粉散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d80
+    span:
+    - body
+    - 14118
+    - 14203
+  label: 消風散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d81
+    span:
+    - body
+    - 14203
+    - 14239
+  label: 鴉陷麝香輕粉散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d82
+    span:
+    - body
+    - 14239
+    - 14271
+  label: 鐵粉散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d83
+    span:
+    - body
+    - 14271
+    - 14310
+  label: 追毒烏金散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d84
+    span:
+    - body
+    - 14310
+    - 14332
+  label: 追毒散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d85
+    span:
+    - body
+    - 14332
+    - 14354
+  label: 針頭散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d86
+    span:
+    - body
+    - 14354
+    - 14384
+  label: 麝香輕粉散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d87
+    span:
+    - body
+    - 14384
+    - 14413
+  label: 黃耆丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d88
+    span:
+    - body
+    - 14413
+    - 14471
+  label: 如聖膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d89
+    span:
+    - body
+    - 14471
+    - 14501
+  label: 乳香蓽茇散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d90
+    span:
+    - body
+    - 14501
+    - 14565
+  label: 升麻和氣飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d91
+    span:
+    - body
+    - 14565
+    - 14665
+  label: 又乳香黃耆散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d92
+    span:
+    - body
+    - 14665
+    - 14730
+  label: 神應膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d93
+    span:
+    - body
+    - 14730
+    - 14750
+  label: 又如聖散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d94
+    span:
+    - body
+    - 14750
+    - 14771
+  label: 玉屑妙靈散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d95
+    span:
+    - body
+    - 14771
+    - 14808
+  label: 香膽散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d96
+    span:
+    - body
+    - 14808
+    - 14895
+  label: 黃耆湯治瘡退風濕熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d97
+    span:
+    - body
+    - 14895
+    - 14944
+  label: 又乳香定痛散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d98
+    span:
+    - body
+    - 14944
+    - 15028
+  label: 又內消散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek032_jc_000-d4d99
+    span:
+    - body
+    - 15028
+    - 15170
+  label: 附羅氏保主錠
+  type: section
+  level: 2
+hash: sha256:2d9d0b264f43999f9f627af5eb4178b2d81bf6fdc45ef210ee5b9c383a50ad39
