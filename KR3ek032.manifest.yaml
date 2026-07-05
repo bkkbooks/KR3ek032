@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek032_000.yaml, hash: 'sha256:03ca8073ca149d1979652e9e1d0166626a9aed2535e6f4f759e5afe5ca08ee51'}
+  - {seq: 0, filename: KR3ek032_000.yaml, hash: 'sha256:9742fd70ae11c042832fb501c2f83cba83358b4e2e2530289b95b66e16a7c320'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek032_000.markers.yaml, hash: 'sha256:3ee5c906394eddbca1764f3f9553b4238cd59f3e1d0636c0d62fb0effab17781'}
+  - {seq: 0, role: markers, filename: assets/KR3ek032_000.markers.yaml, hash: 'sha256:2684e3ac9a2f005ea66d3590b9d11b85f23fb42ff21912cd9e3d513eb858dd09'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1830,7 +1830,4 @@ table_of_contents:
   label: 附羅氏保主錠
   type: section
   level: 2
-hash: sha256:3c7b65ddd17c4078d60e51a77a4fb074ac218017c241ef1e11718fc88fd4002c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:19c5e97ba79f2a9ab83b540404463c6fc98e3c505a118d02071c3723a3502c71
