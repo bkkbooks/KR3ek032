@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ek032/v1
 canonical_location: https://kanripo.org/bkk/KR3ek032/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 新刻圖形枕藏外科
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek032_000.yaml, hash: 'sha256:9742fd70ae11c042832fb501c2f83cba83358b4e2e2530289b95b66e16a7c320'}
+  - {seq: 0, filename: KR3ek032_000.yaml, hash: 'sha256:c76fe1796ece6b32659c2f541e656fd47039c529dbfed5ebf97b12949dac71a7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek032_000.markers.yaml, hash: 'sha256:2684e3ac9a2f005ea66d3590b9d11b85f23fb42ff21912cd9e3d513eb858dd09'}
+  - {seq: 0, role: markers, filename: assets/KR3ek032_000.markers.yaml, hash: 'sha256:8042f35910b2570f2a758c3cb6fa01daab31c7a06553dbf9318cdddab5cddda2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1830,4 +1830,7 @@ table_of_contents:
   label: 附羅氏保主錠
   type: section
   level: 2
-hash: sha256:19c5e97ba79f2a9ab83b540404463c6fc98e3c505a118d02071c3723a3502c71
+hash: sha256:1f760158b40530ef54c1f55f0e61843bccfec4e41af4ac5683150eb191623636
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
