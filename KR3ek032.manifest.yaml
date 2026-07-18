@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ek032_000.yaml, hash: 'sha256:c76fe1796ece6b32659c2f541e656fd47039c529dbfed5ebf97b12949dac71a7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek032_000.markers.yaml, hash: 'sha256:8042f35910b2570f2a758c3cb6fa01daab31c7a06553dbf9318cdddab5cddda2'}
+  - {seq: 0, role: markers, filename: assets/KR3ek032_000.markers.yaml, hash: 'sha256:0aeeceabb811503f297944aa2971207a15b57442311dba3287dcd1c934db9182'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1830,7 +1830,7 @@ table_of_contents:
   label: 附羅氏保主錠
   type: section
   level: 2
-hash: sha256:1f760158b40530ef54c1f55f0e61843bccfec4e41af4ac5683150eb191623636
+hash: sha256:238def9a7242a2c70b45b01dd1f6202457a5fd9e921ec0fcd36bf607c35b38ce
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
